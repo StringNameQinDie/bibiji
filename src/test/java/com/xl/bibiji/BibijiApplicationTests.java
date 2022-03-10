@@ -10,7 +10,9 @@ class BibijiApplicationTests {
     void contextLoads() {
         System.out.println("hello");
         System.out.println("hello");
-        System.out.println("hello");
+        System.out.println("hello123123");
+        System.out.println("hello123123");
+        System.out.println("hello123123");
     }
 
 }
