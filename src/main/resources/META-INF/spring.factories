@@ -1,0 +1,13 @@
+# Initializers
+org.springframework.context.ApplicationContextInitializer=\
+  com.xl.bibiji.custom.MyApplicationContextInitializer
+
+# Application Listeners
+org.springframework.context.ApplicationListener=\
+  com.xl.bibiji.custom.MyApplicationListener
+
+# Run Listeners
+org.springframework.boot.SpringApplicationRunListener=\
+com.xl.bibiji.custom.MySpringApplicationRunListener
+
+
