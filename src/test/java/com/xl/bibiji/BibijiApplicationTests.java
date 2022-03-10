@@ -14,6 +14,7 @@ class BibijiApplicationTests {
         System.out.println("hello123123");
         System.out.println("hello123123");
         System.out.println("hot-fix commit");
+        System.out.println("master commit");
     }
 
 }
